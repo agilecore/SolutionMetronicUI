@@ -1,0 +1,13 @@
+﻿-----------------------------------------------------------------------------------------------
+-- Leia-me
+-----------------------------------------------------------------------------------------------
+
+Ao abrir no visual studio 2012 para executar este projeto seguir os passos abaixo:
+
+1 - Para ver a aplicação funcionando basta abrir o arquivo html dentro da pasta View chamado:
+    login.html
+    login_2.html
+    login_3.html  
+    login_soft.html  
+    index_2.html
+    index_3.html
